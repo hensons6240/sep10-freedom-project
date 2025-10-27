@@ -41,8 +41,8 @@ Topic: **Business**
     * attachable to basically anything
 * Searched 'Business Equipment' > [Office Depot](https://www.officedepot.com/b/office-equipment/N-509740)
    * _Paper Shredders_
-    * Shred unwanted paper
-    * Clean and Organzied
+     * Shred unwanted paper
+     * Clean and Organzied
   * _Paper Folding Machine_
     * Folds paper for you
     * machinery so consistent and neat

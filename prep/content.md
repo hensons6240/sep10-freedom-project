@@ -35,15 +35,15 @@ Topic: **Business**
      * Used to remotely activate other gadgets using your voice
      * Connect certain buttons to do certain things in one click
 * Searched 'Business Equipment' > [Toast](https://pos.toasttab.com/blog/on-the-line/small-business-equipment?srsltid=AfmBOooWl_Cwpdx2okoXcTt14fjcIuYWTuRoh996p2EVMRptkWSAlQOV)
-  * _Anti Theft Tags_
+   * _Anti Theft Tags_
     * Gives security easier time
     * prevents stealing
     * attachable to basically anything
 * Searched 'Business Equipment' > [Office Depot](https://www.officedepot.com/b/office-equipment/N-509740)
- * _Paper Shredders_
+  * _Paper Shredders_
    * Shred unwanted paper
    * Clean and Organzied
-* _Paper Folding Machine_
+ * _Paper Folding Machine_
    * Folds paper for you
    * machinery so consistent and neat
    * Saves you time

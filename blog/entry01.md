@@ -18,4 +18,4 @@ Ive adapted the skill of time management because I tried to finish most of my wo
 For this assignment and the previous one about looking online about our top 3 choices, I was very tempted to just use Ai Overview but realized that it wasn't really giving me what I really wanted. This forced me to properly look at websites and making sure the title matched what I was looking for and even recently, I tried searching up how to code this certain portion only for a way too advanced method by Ai Overview which I later figured out by looking at better examples.
 
 ## Summary
-In conclusion, im looking forward to learn more about coding and business as I continue this project and this unuit as a whole. Business is something my family has also done for a while may allow me to learn a lot more even from home.
+In conclusion, im looking forward to learn more about coding and business as I continue this project and this unit as a whole. Business is something my family has also done for a while may allow me to learn a lot more even from home.

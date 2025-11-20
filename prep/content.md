@@ -2,8 +2,7 @@
 Topic: **Business**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+ Business is the involvement of buying,selling or trading of goods and is abundant throughout the world. Almost everything you own comes from a business including your phone, bed, kitchen and even your house yet all these require people willing to put effort into there business in order for you to have all these things. Working within a business, like any job, requires a lot of work and isn't always smooth sailing. As technology grows, new inventions, appliance and gadgets help make many of these lives a lot easier and more convenient.
 
 ## Part A: existing technology
 - _**Socialization/Data Conveniency**_

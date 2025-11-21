@@ -6,8 +6,8 @@ Topic: **Business**
 
 ## Part A: existing technology
 - _**Socialization/Data Conveniency**_
-  * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [ZohoCRM](https://www.zoho.com/crm/)
-    !
+  * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [ZohoCRM](https://www.zoho.com/crm/)<b>
+    ![](crm.svg)
     * Connecting with customers online
     * Track sales pipeline
   * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [Showpad](https://www.showpad.com/)
@@ -17,7 +17,7 @@ Topic: **Business**
    - Overall, used for connecting with others (customers, people within workplace) and looking at data/progress.
    
 * _**Ai Powered Conveniency**_
-  * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [Noted](https://www.notedapp.io/)
+  * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [Noted](https://www.notedapp.io/)<br>
    ![](AppIcon-Noted_desktop.png)
     * Take audio recording, turn into notes
     * Intelligent playback (cuts out background noise)

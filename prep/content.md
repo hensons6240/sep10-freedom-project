@@ -47,31 +47,35 @@ Topic: **Business**
      * prevents stealing
      * attachable to basically anything
 * Searched 'Business Equipment' > [Office Depot](https://www.officedepot.com/b/office-equipment/N-509740)
-   * **_Paper Shredders_**
-     * Shred unwanted paper
-     * Clean and Organzied
+   * **_Paper Shredders_**  
+     <img src="Shredders.webp" alt="zohocrm" width=150 heigh=150>
+     
+     * Shred unwanted paper  
+     * Clean and Organzied  
   * **_Paper Folding Machine_**
-    * Folds paper for you
-    * machinery so consistent and neat
-    * Saves you time
+   <img src="Paper.webp" alt="zohocrm" width=150 heigh=150>
+
+    * Folds paper for you  
+    * machinery so consistent and neat  
+    * Saves you time  
        
 ## Part B: possible future technology
 **FUTURISTIC STORAGE BOX**
- *Follows you
- *Can fly if needed
-  *Uses very quiet flying method
-  *Can't carry as much
- *Can vary in size depending on what needs to be held
- *Can decrease weight load when moving
- *Hold items
-   *Has scanner to instantly find needed item
-   *Uses xray to allow user to find
- *Voice command
-  *Button command for the unfortunate (Mute)
-  *Maybe even guidance for the disabled
- *AI Sensor to dodge objects
- *Self powered with sun when walking outside
- *Waterproof
- *Fire proof
- *Autolock to present stealing.
-  *High security requirments if needed.
+ * Follows you
+ * Can fly if needed
+  * Uses very quiet flying method
+  * Can't carry as much
+ * Can vary in size depending on what needs to be held
+ * Can decrease weight load when moving
+ * Hold items
+   * Has scanner to instantly find needed item
+   * Uses xray to allow user to find
+ * Voice command
+  * Button command for the unfortunate (Mute)
+  * Maybe even guidance for the disabled
+ * AI Sensor to dodge objects
+ * Self powered with sun when walking outside
+ * Waterproof
+ * Fire proof
+ * Autolock to present stealing.
+   * High security requirments if needed.

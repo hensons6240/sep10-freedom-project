@@ -53,5 +53,22 @@ Topic: **Business**
     * Saves you time
        
 ## Part B: possible future technology
-* Idea
-  * Detail
+**FUTURISTIC STORAGE BOX**
+ *Follows you
+ *Can fly if needed
+  *Uses very quiet flying method
+  *Can't carry as much
+ *Can vary in size depending on what needs to be held
+ *Can decrease weight load when moving
+ *Hold items
+   *Has scanner to instantly find needed item
+   *Uses xray to allow user to find
+ *Voice command
+  *Button command for the unfortunate (Mute)
+  *Maybe even guidance for the disabled
+ *AI Sensor to dodge objects
+ *Self powered with sun when walking outside
+ *Waterproof
+ *Fire proof
+ *Autolock to present stealing.
+  *High security requirments if needed.

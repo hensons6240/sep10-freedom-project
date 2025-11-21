@@ -7,7 +7,7 @@ Topic: **Business**
 ## Part A: existing technology
 - _**Socialization/Data Conveniency**_
   * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [ZohoCRM](https://www.zoho.com/crm/)<b>
-    ![](crm.svg)
+    <img src="download.png" alt="zohocrm" width=150 heigh=150>
     * Connecting with customers online
     * Track sales pipeline
   * Searched "Apps related to Business" > [Apple](https://www.apple.com/business/docs/resources/Apps_in_Business_Getting_Started_Guide.pdf) > [Showpad](https://www.showpad.com/)

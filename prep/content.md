@@ -60,6 +60,7 @@ Topic: **Business**
     * Saves you time  
        
 ## Part B: possible future technology
+![](fly.jpeg)
 **FUTURISTIC STORAGE BOX**
  * Follows you
  * Can fly if needed

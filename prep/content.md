@@ -24,6 +24,7 @@ Topic: **Business**
     * Can switch between different devices - Synced
     * Notetake.. with common features (Highlighting, formating, sharing)
   * Searched "Business Apps" > [Ring Central Plus](https://www.ringcentral.com/us/en/blog/free-business-apps/) > [RingEX](https://www.ringcentral.com/ringex.html)
+   ![](ringex.png)
     * Can call,message,video and fax
     * AI Powered:
       * Auto translate messages

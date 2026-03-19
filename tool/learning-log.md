@@ -1,17 +1,29 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Bulma**
 
 ---
 
+### 3/19/26:
+* Using the [Bulma Website](https://bulma.io/), I learned how to make make a [menu](https://bulma.io/documentation/components/menu/).
+ Menu uses syntax such as 'Menu' to initiate making a menu, 'menu-label' which tells you what the menu is about, and 'menu-list' the actual making
+ for ex.
+ ``` html
+    <aside class="menu">
+        <h3 class="menu-label"> Information </h3>
+            <ul class="menu-list">
+                <li> one </li>
+                <li> two </li>
+                <li> three </li>
+            </ul>
+    </aside>
+```
+* I had to search up what "aside" did as it was in the code. Aside was used to place stuff that have little to do with the other stuff. It is very similair to a normal list but the extra classes affect how it looks in actual code.
 ### X/X/XX:
 * Text
 
-### X/X/XX:
-* Text
 
-
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc

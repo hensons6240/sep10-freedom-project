@@ -19,8 +19,8 @@
     </aside>
 ```
 * I had to search up what "aside" did as it was in the code. Aside was used to place stuff that have little to do with the other stuff. It is very similair to a normal list but the extra classes affect how it looks in actual code.
-### X/X/XX:
-* Text
+### 3/23/26:
+* Learned to make an X in Bulma, though not interactive. Use 
 
 
 <!--

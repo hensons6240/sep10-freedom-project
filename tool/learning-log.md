@@ -22,8 +22,19 @@
 ### 3/23/26:
 * Learned to make an X in [Bulma](https://bulma.io/documentation/elements/delete/) using its website, though not interactive. Use class "delete" add on "is-#size" to change its size
 * Still trying to figure out the components to make  a table in [Bulma](https://bulma.io/documentation/elements/table/). Knows it uses `<td>` for small cell.
-
-
+* Table needs the "table" element which seems to be built in as an html components. It also needs
+``` html
+  <table>
+    <tr>
+      <th> Hi </th>
+      <th> Hi </th>
+    </tr>
+    <tr>
+      <td> Hi </td>
+      <td> Hi </td>
+    </tr>
+```
+*"tr" means each row of the table. "th" means the heading the first row while "td" means each cell basically each columm of a row. Bulma has certain classes that effect the tables such as just class="table", you can add on more such as bulma color classes too.*
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

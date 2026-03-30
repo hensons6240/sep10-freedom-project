@@ -35,6 +35,20 @@
     </tr>
 ```
 *"tr" means each row of the table. "th" means the heading the first row while "td" means each cell basically each columm of a row. Bulma has certain classes that effect the tables such as just class="table", you can add on more such as bulma color classes too.*
+### 3/30/26:
+* Learned to use a progress bar on [Bulma](https://bulma.io/documentation/elements/progress/). The progress bar is an existing element in html but bulma makes it look a lot cleaner. It uses syntax, `<progress>` with closing and you can determine how full it is with "value". Max determines how full the value will be relative to the max. For instance:
+``` html
+<progress class="progress" value="30" max="100"> </progress>
+```
+![progress-bar](image.png)
+* The class "progress" makes it look nice in a bulma format, the value is 30 and because it has a maximum of 100, the bar will look 30% full.
+* On Bulma, a valueless input will instead make it look as if its loading, the value and max values are not important here. The color of both a loading and set value can also be changed with bulma class coloring. In this case "is-danger" makes it red:
+
+
+``` html
+<progress class="progress is-danger" max="100"> </progress>
+```
+![valueless progress-bar](image-1.png)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

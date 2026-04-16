@@ -19,7 +19,7 @@
     </aside>
 ```
 * I had to search up what "aside" did as it was in the code. Aside was used to place stuff that have little to do with the other stuff. It is very similair to a normal list but the extra classes affect how it looks in actual code.
-### 3/23/26:
+### (3/23/26)[#1]:
 * Learned to make an X in [Bulma](https://bulma.io/documentation/elements/delete/) using its website, though not interactive. Use class "delete" add on "is-#size" to change its size
 * Still trying to figure out the components to make  a table in [Bulma](https://bulma.io/documentation/elements/table/). Knows it uses `<td>` for small cell.
 * Table needs the "table" element which seems to be built in as an html components. It also needs
@@ -51,7 +51,20 @@
 ![valueless progress-bar](image-1.png)
 ### 3/15/26 - 3/17/26
  #### [Tags](https://bulma.io/documentation/elements/tag/)
- Tags is a way to format a word in a block. Using a div as well as , it allows you 
+ Tags is a way to format a word in a block. Using a div as well as , it allows you to make a word better standout, the code is actually quite simple to write:<br>
+![vroom](image-2.png)<br>
+Code:
+``` html
+<div class="tag">
+  <span class="tag" > Hello</span>
+</div>
+```
+There are many ways to edit the tag wether it be adding color, changing its size or adding properties like a delete using the [is-delete](#1), learnt before
+
+
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

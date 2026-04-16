@@ -20,7 +20,7 @@
 ```
 * I had to search up what "aside" did as it was in the code. Aside was used to place stuff that have little to do with the other stuff. It is very similair to a normal list but the extra classes affect how it looks in actual code.
 ### (3/23/26):
-#### 
+#### [X][what]
 * Learned to make an X in [Bulma](https://bulma.io/documentation/elements/delete/) using its website, though not interactive. Use class "delete" add on "is-#size" to change its size
 * Still trying to figure out the components to make  a table in [Bulma](https://bulma.io/documentation/elements/table/). Knows it uses `<td>` for small cell.
 * Table needs the "table" element which seems to be built in as an html components. It also needs
@@ -60,7 +60,7 @@ Code:
   <span class="tag" > Hello</span>
 </div>
 ```
-There are many ways to edit the tag wether it be adding color, changing its size or adding properties like a delete using the [is-delete](#3/23/26), learnt before
+There are many ways to edit the tag wether it be adding color, changing its size or adding properties like a delete using the [is-delete](what), learnt before
 
 
 

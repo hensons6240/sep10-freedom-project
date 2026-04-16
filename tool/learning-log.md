@@ -49,6 +49,9 @@
 <progress class="progress is-danger" max="100"> </progress>
 ```
 ![valueless progress-bar](image-1.png)
+### 3/15/26 - 3/17/26
+ #### [Tags](https://bulma.io/documentation/elements/tag/)
+ Tags is a way to format a word in a block. Using a div as well as , it allows you 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

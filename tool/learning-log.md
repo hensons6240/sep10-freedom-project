@@ -63,7 +63,20 @@ Code:
 There are many ways to edit the tag wether it be adding color, changing its size or adding properties like a delete using the `is-delete`, learnt before or hover.
 #### [Panel](https://bulma.io/documentation/components/panel/)
 Panels are like navbar where they allow you to navigate to different groups you've placed. It can be used for many different things. Example:<br>
-
+![alt text](image-3.png)
+Code:
+``` html
+    <nav class="panel">
+      <p class='panel-heading'> Wow</p>
+      <p class="panel-tabs">
+        <a> Amazing</a>
+      </p>
+      <p class='panel-block'> Never</p>
+    </nav>
+```
+Basically, the nav panel is the core of the panel, the `panel-heading` is used as a heading for the entire panel to understand what it is about. `panel-tabs` is the many "groups" you can see and finally `panel-block` is the items within a group. You can add more details depending on how much information you have. Like all the other stuff, you can change the [color](https://bulma.io/documentation/features/color-palettes/) if you want through classes.
+### 4/17/26
+#### [Hero](https://bulma.io/documentation/layout/hero/)
 
 
 

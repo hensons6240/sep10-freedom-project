@@ -62,7 +62,8 @@ Code:
 ```
 There are many ways to edit the tag wether it be adding color, changing its size or adding properties like a delete using the `is-delete`, learnt before or hover.
 #### [Panel](https://bulma.io/documentation/components/panel/)
-Panels are like navbar where they allow you to navigate to different groups you've placed. 
+Panels are like navbar where they allow you to navigate to different groups you've placed. It can be used for many different things. Example:<br>
+
 
 
 

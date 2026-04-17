@@ -89,7 +89,7 @@ The code looks like:
   </div>
 </section>
 ```
-To break down the code, `<section>` is basically another div but is used here over a div because  of the situation. It has class "hero" to initiate the banner (The "is-info" is what changed its color to light-blue). Next is the hero-body, it lets you add the actual content inside the hero-banner usually using the class "title" or "subtitle". Bulma gives you a lot of ways to edit the banner. You can change its size using "is-#size" (small,medium,large) or based it on the height, "is-#height" (fullheight,halfheight). For instance, if I used:
+To break down the code, `<section>` is basically another div but is used here over a div because  of the situation. It has class "hero" to initiate the banner (The "is-info" is what changed its color to light-blue). Next is the hero-body, it lets you add the actual content inside the hero-banner usually using the class "title" or "subtitle". Bulma gives you a lot of ways to edit the banner. You can change its size using "is-#size" (small,medium,large) or based it on the height, "is-#height" (fullheight, halfheight).<br> For instance, if I used "is-large":
 ``` html
 <section class='hero is-info is-large'>
   <div class='hero-body'>

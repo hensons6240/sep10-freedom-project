@@ -103,7 +103,7 @@ It would instead give me:
 ![alt text](image-5.png)
 
 PS. You can use either "hero-head" , "hero-body"
-"hero-foot"
+"hero-foot" to choose where the text ends up, top, middle, bottom respectively.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

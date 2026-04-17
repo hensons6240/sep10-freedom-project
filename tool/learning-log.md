@@ -78,9 +78,29 @@ Basically, the nav panel is the core of the panel, the `panel-heading` is used a
 ### 4/17/26
 #### [Hero](https://bulma.io/documentation/layout/hero/)
 
+A hero layout allows you to make a giant vertical banner as well as add content inside. You can edit it's color, size, add links and more. A hero layout would look like:
+![alt text](image-4.png)<br>
+The code looks like:
+``` html
+<section class='hero is-info'>
+  <div class='hero-body'>
+    <p class='title'> Icecream Sandwhich</p>
+    <p class='subtitle'> Vanilla flavored</p>
+  </div>
+</section>
+```
+To break down the code, `<section>` is basically another div but is used here over a div because  of the situation. It has class "hero" to initiate the banner (The "is-info" is what changed its color to light-blue). Next is the hero-body, it lets you add the actual content inside the hero-banner usually using the class "title" or "subtitle". Bulma gives you a lot of ways to edit the banner. You can change its size using "is-#size" (small,medium,large) or based it on the height, "is-#height" (fullheight,halfheight). For instance, if I used:
+``` html
+<section class='hero is-info is-large'>
+  <div class='hero-body'>
+    <p class='title'> Icecream Sandwhich</p>
+    <p class='subtitle'> Vanilla flavored</p>
+  </div>
+</section>
+```
+It would instead give me:
 
-
-
+![alt text](image-5.png)
 
 <!--
 * Links you used today (websites, videos, etc)

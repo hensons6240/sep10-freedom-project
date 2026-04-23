@@ -42,7 +42,9 @@ For better clarification, class `Hero` is used to initialize the Hero Layout, `i
 
 ### Skills
 1. How to Learn, I do believe that I have bettered myself in this field because of what im able to understand about bulma. Usually, just using the website is ver ineffective as way to learn but ive been able to make it work by using the examples, information and code snippet to better understand the code and its many properties.
-2. 
+2. Growth Mindset, this is too another skill I believe I developed because of the process it took to learn my tool. While learning the panel, it was a lot harder to understand because of the many lines of code the examples gave (the one I gave is much more simple). The examples tend to give an actual example of its use but I was still able to understand it even if it took some time.
+### Going Forward
+By the time in writing this, we are only a few days away from starting to code our project, compared to before, i'm very excited to try the many new things I learned and how it would affect my website if I didn't have a tool. Use your tool, don't let it use you.
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)

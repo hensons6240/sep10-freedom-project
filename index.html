@@ -12,21 +12,13 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
         <style>
             /* CSS */
-            .white{
-              background-color: white;
-              border-style: solid;
-              margin: 20px;
-            }
-            .panel1{
-              border-style:solid
-            }
         </style>
 
         <title>Title</title>
     </head>
     <body>
         <!-- HTML -->
-<section class="hero is-info">
+<section class="hero is-info" id="home">
   <div class="hero-head">
     <nav class="navbar">
       <div class="container">
@@ -40,9 +32,9 @@
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
-            <a class="navbar-item is-active"> Home </a>
-            <a class="navbar-item"> Examples </a>
-            <a class="navbar-item"> Documentation </a>
+            <a class="navbar-item is-active" href="#home"> Home </a>
+            <a class="navbar-item" href="#link"> Links</a>
+            <a class="navbar-item" href="#footer"> Footer </a>
             <span class="navbar-item">
                 <div class="navbar-burger">
 
@@ -73,12 +65,12 @@
       </div>
     </div>
   </div>
-    <nav class="panel panel1">
+    <nav class="panel panel1" id="Link">
       <p class='panel-heading'> Inventions</p>
       <p class='panel-block'><a href="partA.html"> Part A </a></p>
       <p class='panel-block'><a href="partB.html"> Part B </a></p>
     </nav>
-<footer class="footer white">
+<footer class="footer white" id="footer">
   <p> I don't know what to write here for now.</p>
 </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

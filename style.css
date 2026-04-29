@@ -1,0 +1,11 @@
+.white{
+    background-color: white;
+    border-style: solid;
+    margin: 20px;
+}
+.panel1{
+    border-style:solid
+}
+body{
+    font-family: schoolbell;
+}

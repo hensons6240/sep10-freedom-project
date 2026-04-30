@@ -9,3 +9,6 @@
 body{
     font-family: schoolbell;
 }
+.image1{
+    display: flex;
+}

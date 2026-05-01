@@ -11,4 +11,12 @@ body{
 }
 .image1{
     display: flex;
+    margin-left: 20px;
+    border-style: solid;
+}
+.panel{
+    margin:15px;
+}
+.white1{
+    background-color: white;
 }

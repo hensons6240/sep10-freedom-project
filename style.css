@@ -8,15 +8,63 @@
 }
 body{
     font-family: schoolbell;
+    background-color: #ccdbfdff;
 }
 .image1{
     display: flex;
     margin-left: 20px;
     border-style: solid;
+    height: 150px;
+    width: 150px;
 }
 .panel{
-    margin:15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #ccdbfdff;
+    border-color: #b6ccfeff;
 }
 .white1{
     background-color: white;
+}
+.software{
+    border-style: solid;
+    border-color:#ccdbfdff;
+    margin: 35px;
+    padding: 15px;
+    background-color: lavender;
+}
+.hardware{
+    border-style: solid;
+    border-color:#c1d3feff;
+    margin: 35px;
+    padding: 15px;
+    background-color: white;
+}
+.partB{
+
+}
+.overview{
+    border-style: solid;
+    border-color:#ccdbfdff;
+    margin: 35px;
+    padding: 15px;
+    background-color: lavender;
+}
+.invention{
+    border-style: solid;
+    border-color:#ccdbfdff;
+    margin: 35px;
+    padding: 15px;
+    background-color: lavender;
+}
+.image2{
+    border-style: solid;
+    margin-left: 100px;
+}
+.context{
+    border-style: solid;
+    border-color:#ccdbfdff;
+    margin: 35px;
+    padding: 15px;
+    background-color: lavender;
 }

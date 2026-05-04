@@ -18,9 +18,8 @@ body{
     width: 150px;
 }
 .panel{
-    margin-left: 50px;
-    margin-right: 50px;
-    background-color: #ccdbfdff;
+    margin-left: 40px;
+    margin-right: 40px;
     border-color: #b6ccfeff;
 }
 .white1{
@@ -28,34 +27,38 @@ body{
 }
 .software{
     border-style: solid;
-    border-color:#ccdbfdff;
+    border-color: white;
     margin: 35px;
     padding: 15px;
     background-color: lavender;
+    border-width: 5px;
 }
 .hardware{
     border-style: solid;
-    border-color:#c1d3feff;
+    border-color: white;
     margin: 35px;
     padding: 15px;
-    background-color: white;
+    background-color: lavender;
+    border-width: 5px;
 }
 .partB{
 
 }
 .overview{
     border-style: solid;
-    border-color:#ccdbfdff;
+    border-color: white;
     margin: 35px;
     padding: 15px;
     background-color: lavender;
+    border-width: 5px;
 }
 .invention{
     border-style: solid;
-    border-color:#ccdbfdff;
+    border-color: white;
     margin: 35px;
     padding: 15px;
     background-color: lavender;
+    border-width: 5px;
 }
 .image2{
     border-style: solid;
@@ -66,5 +69,16 @@ body{
     border-color:#ccdbfdff;
     margin: 35px;
     padding: 15px;
+    background-color: lavender;
+}
+.panel{
+    background-color: lavender;
+}
+.panel-heading{
+    border-radius: 0px;
+}
+.footer{
+    margin-left: 40px;
+    margin-right:40px;
     background-color: lavender;
 }

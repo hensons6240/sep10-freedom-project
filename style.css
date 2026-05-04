@@ -20,7 +20,7 @@ body{
 .panel{
     margin-left: 40px;
     margin-right: 40px;
-    border-color: #b6ccfeff;
+
 }
 .white1{
     background-color: white;
@@ -66,22 +66,27 @@ body{
 }
 .context{
     border-style: solid;
-    border-color:#ccdbfdff;
+    border-color: white;
     margin: 35px;
     padding: 15px;
     background-color: lavender;
+    border-width: 4px;
 }
 .panel{
     background-color: lavender;
+    border-color: white;
+    border-width: 3px;
 }
 .panel-heading{
-    border-radius: 0px;
+    border-color: white;
 }
 .footer{
     margin-left: 40px;
     margin-right:40px;
     background-color: lavender;
+    border-color: white;
+    border-width: 5px;
 }
 #navbarMenuHeroB{
-    background-color: white;
+    background-color: rgb(0);
 }

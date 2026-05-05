@@ -58,7 +58,10 @@
 
 #### Beyond MVP
 
-* Task
+* More than one font
+* Fix the navbar-burger
+* Add my phone number?
+* Make my partA less overwhelming?
 
 
 

@@ -73,7 +73,7 @@
 | -------- | ------- | ------- |
 | Kaitlyn | I like the color Scheme and the idea of adding contact info | Maybe use a different font for the subheadings instead of using the same font for everything |
 | helen | I like the color scheme and the link for the inventions | Are you going to add your phone number and consider making the link full screen instead of just the right corner |
-|  |  |  |
+|Ocean  |Very clean and organized  |Make the navbar look cleaner and maybe less stuff for part A.  |
 |  |  |  |
 |  |  |  |
 

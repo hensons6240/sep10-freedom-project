@@ -88,5 +88,8 @@ body{
     border-width: 5px;
 }
 #navbarMenuHeroB{
-    background-color: rgb(0);
+
+}
+.navbar-end{
+    width: 200px;
 }

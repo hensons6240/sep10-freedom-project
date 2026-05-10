@@ -22,7 +22,12 @@ Because the navbar had an id of: "navbarMenuHero" , the burger too neeeded to ha
 It took me awhile to figure out which one to use (I could've used any of them, some just needed more tinkering) but I was able to find the proper grid I wanted for both mobile and desktop. Looking back, I do believe using the bootstrap grid system, something I had actual experience with would've been a lot simplier to use then whatever bulma had.
 
 ## Engineering Design Progress
-Finishing the MVP officially puts us on step .7, Test and evaluate the prototype, having to test our created prototype to see for improvement as needed also known as going beyong the MVP where we go beyong the minimum aiming to make our project better than it currently is despite it being usable.
+Finishing the MVP officially puts us on step .7, Test and evaluate the prototype, having to test our created prototype to see for improvement as needed also known as going beyong the MVP where we go beyong the minimum aiming to make our project better than it currently is despite it being usable. At the time im writing this, we have already started and have gotten feedback for what it is we are lacking and need to improve upon.
+## Skills
+1. How to Google. As already explained, I was heavily reliant on using Bulma's website to fix my problems believing that they theoretically should have everything I need which ended up being incorrect, instead forcing me to look elsewhere for a solution
+2. Debugging. Debugging, was a huge part of this project, copy and pasting left a lot of bugs that I had to adjust to because I had so much content and wanted to use each component in a certain way, where bulma only gave us an outline of the componenets, requiring me to fix some code to make sure it ran smoothly.
+## Moving Forward
+I will continue to fix my project and the many mistakes it has, make it more convenient and appealing to both myself and others. With what little time that remains, even the smallest change could make my project a tiny bit better and hopefully to a point that is presentable.
 
 
 

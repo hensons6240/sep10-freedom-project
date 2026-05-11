@@ -1,16 +1,17 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Origin of mind your own business
 
 ## Product
-* 
+* Website
 
 ## Process
-* 
+* Explain business, show off my stuff
+* Code snippet of navbar
 
 ## Conclusion
-* 
+* Thoughts on own project, what to improve, what I learned from it
 
 <!-- EXAMPLE
 

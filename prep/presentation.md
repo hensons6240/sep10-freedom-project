@@ -1,21 +1,17 @@
 # Presentation Plan
 
 ## Hook
-* The origin of the phrase "Mind your own Business"
+* Origin of mind your own business
 
 ## Product
-* Show off my product and how I came up with it.
+* Website
 
 ## Process
-* Explain why business is important
-* Show my partA (software and hardware), or anything cool that I believe others didn't know
-* Talk about my tool while describing my website.
+* Explain business, show off my stuff
+* Code snippet of navbar
 
 ## Conclusion
-* Give Link to my website
-* Re Explain the importance of business
-* Difficulty finding my product
-* Say "Thank You"
+* Thoughts on own project, what to improve, what I learned from it
 
 <!-- EXAMPLE
 

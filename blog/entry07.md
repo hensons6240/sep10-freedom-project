@@ -7,6 +7,14 @@ A takeaway from the Expo was definetly to keep it simple, I overcomplicated what
 ### In Class [Presentation](https://docs.google.com/presentation/d/1pP_gzBrD9EI8o4TyXSexrVWhwO7Kz3qC1SPM51ACz5I/edit?usp=sharing)
 A takeaway for the this presentation was definetly to be prepared. I was actually sick for some time and excused from presentation and without me knowing it was to a point that it skipped my placement. When I came into class feeling a lot better (not perfect), I was immediatly called on to present. During this time, I didn't know what to say and was suprised by my own project because I didn't prepare. I think definetly think that my presentation could've gone a lot smoother if I knew what to say especially since I forgot to look over my [presentation plan](https://github.com/hensons6240/sep10-freedom-project/blob/main/prep/presentation.md).
 
+Some feedback from my teacher included:
+1. Having less text on my hook as too much text may overwhelm the audience especially since it is a hook.
+<img width="609" height="348" alt="image" src="https://github.com/user-attachments/assets/e107d1ae-a779-4234-81fe-bd1b401f28fe" />
+2. Text size wasn't the greatest especially for people far away couldn't see the small text. I supposed it could be read but may be because of how I percieve "small" and "big" text.
+3. Conclusion was also something touched upon because I ended with "thats it" instead of something more formal like "thank you". It may have set a tone that I didn't care that much.
+
+
+
 ## Engineering Design Process
 I've reached the last step of my engineering design process, "communicating the results" of my presentation as shown above. I do believe that my project was still really good even if not perfect and is happy with the results ive gotten because it wasn't easy getting to this step.
 ## SKills

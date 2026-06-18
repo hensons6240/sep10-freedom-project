@@ -16,10 +16,10 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **B
 
 ## Implications
 ##### PROS
-* 
+* Helps you Find Existing Technology including software and hardware.
 ##### CONS
-* 
-
+* Technology and Description not properly connected
+* Not specific on what PartA and partB are.
 
 ## Blog
 Below you will find my blog about how I made my project.
